@@ -1,0 +1,251 @@
+Respondent_ID,Age,Gender,Region,Income_Group,Employment_Status,Primary_Expense_Category,Monthly_Income_INR,Monthly_Savings_INR,Financial_Confidence_Score,Monthly_Expenses_INR
+RESP_001,56,Female,East,Lower-Middle (3L-8L INR),Employed Full-Time,Housing,74615,29846,9,44769
+RESP_002,46,Male,East,Upper-Middle (15L-30L INR),Student,Utilities,102503,14588,7,87915
+RESP_003,32,Male,South,Middle Income (8L-15L INR),Student,Utilities,143274,38142,4,105132
+RESP_004,60,Male,West,Low Income (<3L INR),Employed Full-Time,Transportation,49759,19903,1,29856
+RESP_005,25,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,105708,18653,2,87055
+RESP_006,38,Female,South,Lower-Middle (3L-8L INR),Employed Part-Time,Housing,80112,12831,5,67281
+RESP_007,56,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,122471,7724,5,114747
+RESP_008,36,Female,West,Middle Income (8L-15L INR),Employed Full-Time,Housing,146740,13083,8,133657
+RESP_009,40,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,143153,21816,6,121337
+RESP_010,28,Female,Central,Lower-Middle (3L-8L INR),Self-Employed,Transportation,46589,8276,8,38313
+RESP_011,28,Female,Central,Middle Income (8L-15L INR),Employed Part-Time,Food & Groceries,50015,15994,2,34021
+RESP_012,41,Male,South,Low Income (<3L INR),Employed Full-Time,Housing,49009,19603,3,29406
+RESP_013,53,Male,North,Lower-Middle (3L-8L INR),Employed Full-Time,Entertainment,103309,25040,6,78269
+RESP_014,57,Female,South,Middle Income (8L-15L INR),Employed Full-Time,Housing,146446,18959,10,127487
+RESP_015,41,Female,East,Upper-Middle (15L-30L INR),Employed Part-Time,Healthcare,82046,8099,3,73947
+RESP_016,20,Female,South,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,126661,21576,6,105085
+RESP_017,39,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,46143,18457,6,27686
+RESP_018,19,Male,Central,Low Income (<3L INR),Self-Employed,Food & Groceries,26154,8116,2,18038
+RESP_019,41,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Transportation,41804,16721,7,25083
+RESP_020,61,Female,Central,Lower-Middle (3L-8L INR),Employed Part-Time,Entertainment,61688,24675,2,37013
+RESP_021,47,Female,East,Lower-Middle (3L-8L INR),Employed Full-Time,Savings & Investments,84288,28928,6,55360
+RESP_022,55,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,71195,28478,1,42717
+RESP_023,19,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,40581,11847,3,28734
+RESP_024,38,Male,West,Low Income (<3L INR),Self-Employed,Food & Groceries,72648,28155,2,44493
+RESP_025,50,Male,North,Lower-Middle (3L-8L INR),Student,Food & Groceries,50087,16135,7,33952
+RESP_026,29,Female,North,Lower-Middle (3L-8L INR),Self-Employed,Savings & Investments,69930,19774,4,50156
+RESP_027,39,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,52981,3742,8,49239
+RESP_028,61,Male,West,Low Income (<3L INR),Employed Part-Time,Transportation,89298,20309,6,68989
+RESP_029,42,Male,West,Upper-Middle (15L-30L INR),Employed Full-Time,Healthcare,66167,2619,10,63548
+RESP_030,44,Female,West,Middle Income (8L-15L INR),Employed Full-Time,Transportation,95304,19658,4,75646
+RESP_031,59,Male,East,Middle Income (8L-15L INR),Student,Healthcare,63408,25363,5,38045
+RESP_032,45,Male,Central,Middle Income (8L-15L INR),Employed Full-Time,Healthcare,59499,22337,9,37162
+RESP_033,33,Female,West,Lower-Middle (3L-8L INR),Employed Full-Time,Housing,145816,18001,7,127815
+RESP_034,32,Female,East,Low Income (<3L INR),Employed Full-Time,Food & Groceries,72269,2968,10,69301
+RESP_035,64,Female,South,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,58559,23423,9,35136
+RESP_036,61,Male,South,Middle Income (8L-15L INR),Employed Full-Time,Savings & Investments,134126,27619,7,106507
+RESP_037,20,Female,East,Middle Income (8L-15L INR),Employed Full-Time,Healthcare,94319,2281,1,92038
+RESP_038,54,Male,East,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,131925,29420,8,102505
+RESP_039,24,Male,Central,Low Income (<3L INR),Student,Food & Groceries,115317,17360,4,97957
+RESP_040,38,Female,Central,Lower-Middle (3L-8L INR),Self-Employed,Utilities,116347,3058,3,113289
+RESP_041,26,Female,South,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,68787,22677,7,46110
+RESP_042,56,Female,West,Middle Income (8L-15L INR),Employed Full-Time,Utilities,55488,12724,3,42764
+RESP_043,35,Female,South,Middle Income (8L-15L INR),Employed Full-Time,Healthcare,94441,30404,8,64037
+RESP_044,21,Female,West,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,94663,37865,6,56798
+RESP_045,42,Male,West,High Income (>30L INR),Employed Full-Time,Housing,42431,16972,5,25459
+RESP_046,31,Male,Central,Middle Income (8L-15L INR),Employed Part-Time,Savings & Investments,81681,11200,4,70481
+RESP_047,26,Male,North,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,83483,33393,8,50090
+RESP_048,43,Male,North,Low Income (<3L INR),Employed Full-Time,Transportation,142720,27611,8,115109
+RESP_049,19,Non-binary,East,Low Income (<3L INR),Employed Full-Time,Housing,69153,27661,1,41492
+RESP_050,37,Male,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,26368,3239,9,23129
+RESP_051,45,Female,West,Low Income (<3L INR),Student,Utilities,47424,2125,5,45299
+RESP_052,64,Female,North,Low Income (<3L INR),Self-Employed,Housing,132360,25857,4,106503
+RESP_053,24,Female,West,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,65004,17398,6,47606
+RESP_054,61,Female,North,Low Income (<3L INR),Student,Utilities,103869,8638,6,95231
+RESP_055,25,Female,North,Upper-Middle (15L-30L INR),Employed Full-Time,Healthcare,108652,8570,2,100082
+RESP_056,64,Female,North,Low Income (<3L INR),Student,Housing,132755,5249,8,127506
+RESP_057,52,Male,Central,Lower-Middle (3L-8L INR),Self-Employed,Healthcare,76985,11110,7,65875
+RESP_058,31,Female,South,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,70069,15605,1,54464
+RESP_059,34,Male,West,High Income (>30L INR),Employed Full-Time,Transportation,72326,14115,5,58211
+RESP_060,53,Male,Central,Low Income (<3L INR),Employed Full-Time,Entertainment,128737,24911,6,103826
+RESP_061,57,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,101061,34556,4,66505
+RESP_062,21,Male,Central,High Income (>30L INR),Employed Part-Time,Savings & Investments,43398,14595,2,28803
+RESP_063,19,Female,Central,Upper-Middle (15L-30L INR),Employed Full-Time,Transportation,118393,3969,4,114424
+RESP_064,23,Non-binary,Central,Upper-Middle (15L-30L INR),Employed Full-Time,Entertainment,70861,19275,1,51586
+RESP_065,59,Female,East,Lower-Middle (3L-8L INR),Self-Employed,Healthcare,95897,6470,7,89427
+RESP_066,21,Male,West,Low Income (<3L INR),Retired,Utilities,101905,12225,2,89680
+RESP_067,46,Male,Central,Middle Income (8L-15L INR),Employed Full-Time,Healthcare,147118,25196,2,121922
+RESP_068,35,Female,West,Upper-Middle (15L-30L INR),Employed Full-Time,Food & Groceries,88577,15669,9,72908
+RESP_069,43,Male,East,Middle Income (8L-15L INR),Employed Full-Time,Housing,85641,34256,5,51385
+RESP_070,61,Non-binary,East,Middle Income (8L-15L INR),Employed Full-Time,Utilities,29078,11631,2,17447
+RESP_071,51,Non-binary,West,Lower-Middle (3L-8L INR),Student,Entertainment,45003,18001,9,27002
+RESP_072,27,Female,North,Middle Income (8L-15L INR),Employed Full-Time,Entertainment,82768,30625,9,52143
+RESP_073,53,Male,South,Low Income (<3L INR),Employed Full-Time,Food & Groceries,71047,17504,1,53543
+RESP_074,31,Male,North,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,91626,26089,3,65537
+RESP_075,48,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,77660,31064,4,46596
+RESP_076,32,Male,North,Lower-Middle (3L-8L INR),Employed Part-Time,Healthcare,124386,2302,7,122084
+RESP_077,25,Male,Central,Lower-Middle (3L-8L INR),Self-Employed,Savings & Investments,69786,27914,10,41872
+RESP_078,31,Female,East,Low Income (<3L INR),Employed Full-Time,Entertainment,21925,8770,4,13155
+RESP_079,40,Female,North,Middle Income (8L-15L INR),Employed Full-Time,Entertainment,103976,39208,2,64768
+RESP_080,57,Female,East,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,125221,32659,7,92562
+RESP_081,38,Female,West,Middle Income (8L-15L INR),Student,Transportation,137832,37840,6,99992
+RESP_082,33,Male,South,Low Income (<3L INR),Student,Food & Groceries,145150,33890,3,111260
+RESP_083,62,Female,West,Lower-Middle (3L-8L INR),Employed Full-Time,Savings & Investments,46015,15598,6,30417
+RESP_084,35,Prefer not to say,West,Lower-Middle (3L-8L INR),Employed Part-Time,Healthcare,53320,21328,6,31992
+RESP_085,64,Male,Central,Low Income (<3L INR),Employed Part-Time,Healthcare,84881,15380,5,69501
+RESP_086,41,Female,South,Lower-Middle (3L-8L INR),Employed Full-Time,Transportation,110827,28984,4,81843
+RESP_087,43,Female,West,Low Income (<3L INR),Student,Entertainment,140071,10125,10,129946
+RESP_088,42,Female,West,Low Income (<3L INR),Employed Full-Time,Food & Groceries,122215,38059,1,84156
+RESP_089,62,Female,South,High Income (>30L INR),Employed Full-Time,Healthcare,46289,6033,10,40256
+RESP_090,58,Female,South,Lower-Middle (3L-8L INR),Employed Full-Time,Savings & Investments,148859,39873,6,108986
+RESP_091,46,Male,West,Upper-Middle (15L-30L INR),Employed Full-Time,Utilities,23389,9355,2,14034
+RESP_092,32,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Housing,45683,7704,3,37979
+RESP_093,62,Female,West,Middle Income (8L-15L INR),Self-Employed,Housing,33629,9848,8,23781
+RESP_094,18,Female,West,Middle Income (8L-15L INR),Employed Full-Time,Housing,81550,23592,10,57958
+RESP_095,42,Female,Central,Middle Income (8L-15L INR),Employed Part-Time,Entertainment,44826,8924,6,35902
+RESP_096,24,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,120734,29208,3,91526
+RESP_097,26,Female,West,Lower-Middle (3L-8L INR),Employed Full-Time,Transportation,46630,18652,7,27978
+RESP_098,41,Female,East,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,118762,2488,4,116274
+RESP_099,18,Female,North,Upper-Middle (15L-30L INR),Employed Full-Time,Utilities,66163,26465,9,39698
+RESP_100,61,Female,North,Upper-Middle (15L-30L INR),Self-Employed,Savings & Investments,118511,37941,5,80570
+RESP_101,25,Female,North,High Income (>30L INR),Employed Full-Time,Utilities,86435,31165,3,55270
+RESP_102,41,Female,Central,Low Income (<3L INR),Employed Full-Time,Savings & Investments,31653,3667,2,27986
+RESP_103,28,Female,West,Middle Income (8L-15L INR),Employed Full-Time,Entertainment,47961,19184,2,28777
+RESP_104,34,Male,Central,Upper-Middle (15L-30L INR),Employed Part-Time,Food & Groceries,101941,6114,3,95827
+RESP_105,25,Male,West,Low Income (<3L INR),Student,Housing,94137,37654,2,56483
+RESP_106,52,Male,Central,Low Income (<3L INR),Self-Employed,Food & Groceries,53662,9761,4,43901
+RESP_107,52,Female,Central,Middle Income (8L-15L INR),Employed Full-Time,Entertainment,118818,33116,2,85702
+RESP_108,50,Male,East,Middle Income (8L-15L INR),Employed Full-Time,Transportation,76446,30578,10,45868
+RESP_109,22,Male,Central,Upper-Middle (15L-30L INR),Employed Full-Time,Transportation,41288,16515,9,24773
+RESP_110,59,Female,South,Low Income (<3L INR),Employed Full-Time,Entertainment,142555,19772,2,122783
+RESP_111,56,Male,East,Middle Income (8L-15L INR),Employed Full-Time,Savings & Investments,115081,5712,9,109369
+RESP_112,58,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,56877,3367,6,53510
+RESP_113,45,Male,North,Low Income (<3L INR),Employed Full-Time,Healthcare,131562,28200,1,103362
+RESP_114,24,Male,South,Low Income (<3L INR),Employed Full-Time,Savings & Investments,35313,5726,4,29587
+RESP_115,26,Female,South,Upper-Middle (15L-30L INR),Self-Employed,Transportation,100885,25616,1,75269
+RESP_116,25,Male,South,Middle Income (8L-15L INR),Employed Full-Time,Transportation,92715,29723,6,62992
+RESP_117,29,Male,East,Lower-Middle (3L-8L INR),Employed Full-Time,Transportation,30326,12130,4,18196
+RESP_118,51,Female,Central,Lower-Middle (3L-8L INR),Self-Employed,Food & Groceries,130091,36958,3,93133
+RESP_119,50,Female,Central,Upper-Middle (15L-30L INR),Employed Full-Time,Transportation,145836,11108,3,134728
+RESP_120,40,Male,North,Lower-Middle (3L-8L INR),Employed Part-Time,Utilities,21560,8624,9,12936
+RESP_121,41,Female,North,Upper-Middle (15L-30L INR),Employed Full-Time,Housing,99148,37643,6,61505
+RESP_122,54,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Transportation,103186,33324,9,69862
+RESP_123,52,Male,North,Lower-Middle (3L-8L INR),Self-Employed,Savings & Investments,46745,18698,5,28047
+RESP_124,61,Female,East,Lower-Middle (3L-8L INR),Self-Employed,Housing,51890,10927,2,40963
+RESP_125,57,Female,Central,Lower-Middle (3L-8L INR),Employed Part-Time,Food & Groceries,40022,16008,8,24014
+RESP_126,39,Female,South,Middle Income (8L-15L INR),Employed Full-Time,Savings & Investments,143629,33010,5,110619
+RESP_127,44,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Housing,72579,24443,2,48136
+RESP_128,52,Non-binary,East,Lower-Middle (3L-8L INR),Employed Full-Time,Savings & Investments,90316,16437,4,73879
+RESP_129,18,Female,East,Upper-Middle (15L-30L INR),Employed Full-Time,Food & Groceries,103847,13207,9,90640
+RESP_130,52,Male,North,Lower-Middle (3L-8L INR),Student,Utilities,48380,19352,4,29028
+RESP_131,54,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,130198,37757,4,92441
+RESP_132,64,Male,North,Upper-Middle (15L-30L INR),Retired,Food & Groceries,22356,8942,2,13414
+RESP_133,31,Male,South,Middle Income (8L-15L INR),Employed Full-Time,Savings & Investments,90326,24612,6,65714
+RESP_134,20,Male,North,Low Income (<3L INR),Employed Full-Time,Entertainment,112447,30441,2,82006
+RESP_135,18,Male,East,Upper-Middle (15L-30L INR),Employed Full-Time,Healthcare,134994,8471,7,126523
+RESP_136,22,Non-binary,North,Middle Income (8L-15L INR),Student,Transportation,109899,37631,3,72268
+RESP_137,43,Female,Central,Lower-Middle (3L-8L INR),Self-Employed,Transportation,40049,16019,3,24030
+RESP_138,31,Female,West,Low Income (<3L INR),Self-Employed,Utilities,95717,33348,5,62369
+RESP_139,56,Male,North,Middle Income (8L-15L INR),Employed Part-Time,Utilities,125361,3177,3,122184
+RESP_140,44,Male,Central,Middle Income (8L-15L INR),Employed Part-Time,Transportation,36082,6760,2,29322
+RESP_141,26,Male,Central,Lower-Middle (3L-8L INR),Self-Employed,Healthcare,20661,8264,10,12397
+RESP_142,32,Male,East,Upper-Middle (15L-30L INR),Employed Full-Time,Transportation,57412,22964,9,34448
+RESP_143,32,Female,Central,Middle Income (8L-15L INR),Employed Full-Time,Entertainment,134015,18353,2,115662
+RESP_144,43,Female,Central,Low Income (<3L INR),Employed Full-Time,Healthcare,143191,13556,2,129635
+RESP_145,59,Female,Central,Lower-Middle (3L-8L INR),Retired,Utilities,22920,9168,8,13752
+RESP_146,30,Male,Central,Lower-Middle (3L-8L INR),Student,Housing,111194,13563,9,97631
+RESP_147,49,Non-binary,South,Middle Income (8L-15L INR),Employed Full-Time,Savings & Investments,134306,10234,7,124072
+RESP_148,56,Female,South,Low Income (<3L INR),Self-Employed,Entertainment,80315,27519,3,52796
+RESP_149,49,Female,East,Middle Income (8L-15L INR),Student,Entertainment,99561,28966,9,70595
+RESP_150,21,Female,North,Middle Income (8L-15L INR),Employed Full-Time,Utilities,28946,11578,3,17368
+RESP_151,47,Male,Central,Upper-Middle (15L-30L INR),Employed Full-Time,Utilities,114242,28987,5,85255
+RESP_152,54,Male,North,Lower-Middle (3L-8L INR),Student,Food & Groceries,65500,15178,9,50322
+RESP_153,40,Male,North,Upper-Middle (15L-30L INR),Employed Full-Time,Entertainment,124540,26596,3,97944
+RESP_154,56,Female,East,Low Income (<3L INR),Employed Part-Time,Food & Groceries,36309,14523,7,21786
+RESP_155,62,Male,Central,Upper-Middle (15L-30L INR),Employed Full-Time,Food & Groceries,75230,6431,1,68799
+RESP_156,32,Male,Central,Low Income (<3L INR),Student,Savings & Investments,131822,29764,4,102058
+RESP_157,60,Male,West,Lower-Middle (3L-8L INR),Retired,Food & Groceries,118656,23627,4,95029
+RESP_158,46,Male,North,Middle Income (8L-15L INR),Student,Healthcare,143782,10906,7,132876
+RESP_159,53,Female,North,Low Income (<3L INR),Employed Full-Time,Transportation,50027,20010,8,30017
+RESP_160,30,Female,South,Lower-Middle (3L-8L INR),Student,Housing,146768,15076,1,131692
+RESP_161,49,Female,West,Middle Income (8L-15L INR),Self-Employed,Utilities,92541,37016,5,55525
+RESP_162,24,Male,South,Middle Income (8L-15L INR),Employed Full-Time,Healthcare,132340,8012,7,124328
+RESP_163,39,Female,South,Middle Income (8L-15L INR),Self-Employed,Housing,134846,9151,4,125695
+RESP_164,45,Female,South,Middle Income (8L-15L INR),Employed Full-Time,Entertainment,79321,30211,4,49110
+RESP_165,19,Male,East,Lower-Middle (3L-8L INR),Employed Full-Time,Entertainment,20956,8382,4,12574
+RESP_166,59,Male,East,Lower-Middle (3L-8L INR),Employed Full-Time,Entertainment,120375,38378,6,81997
+RESP_167,62,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,94131,8894,7,85237
+RESP_168,23,Female,West,Low Income (<3L INR),Employed Full-Time,Healthcare,67908,15467,2,52441
+RESP_169,45,Female,North,Upper-Middle (15L-30L INR),Employed Part-Time,Utilities,98339,33010,5,65329
+RESP_170,45,Male,West,Middle Income (8L-15L INR),Employed Full-Time,Transportation,145659,14289,4,131370
+RESP_171,61,Male,Central,Lower-Middle (3L-8L INR),Self-Employed,Food & Groceries,45963,18385,3,27578
+RESP_172,61,Female,East,Lower-Middle (3L-8L INR),Employed Full-Time,Entertainment,121757,36905,7,84852
+RESP_173,37,Female,North,Upper-Middle (15L-30L INR),Employed Full-Time,Savings & Investments,59443,22829,6,36614
+RESP_174,47,Female,North,Low Income (<3L INR),Employed Full-Time,Transportation,119259,36054,7,83205
+RESP_175,28,Female,Central,Middle Income (8L-15L INR),Self-Employed,Savings & Investments,59063,23625,5,35438
+RESP_176,45,Male,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Utilities,134225,9052,6,125173
+RESP_177,42,Male,South,Middle Income (8L-15L INR),Employed Part-Time,Utilities,136400,5654,5,130746
+RESP_178,56,Female,East,Low Income (<3L INR),Student,Utilities,100818,25486,7,75332
+RESP_179,50,Male,East,Upper-Middle (15L-30L INR),Employed Part-Time,Housing,24703,9881,2,14822
+RESP_180,18,Female,West,Upper-Middle (15L-30L INR),Employed Full-Time,Savings & Investments,85128,26489,5,58639
+RESP_181,44,Female,South,Middle Income (8L-15L INR),Employed Full-Time,Transportation,92099,10636,6,81463
+RESP_182,30,Female,South,Middle Income (8L-15L INR),Student,Transportation,45849,8441,6,37408
+RESP_183,58,Male,South,Upper-Middle (15L-30L INR),Employed Full-Time,Healthcare,51860,20744,5,31116
+RESP_184,20,Female,South,Middle Income (8L-15L INR),Student,Healthcare,51585,14149,10,37436
+RESP_185,56,Male,East,Low Income (<3L INR),Employed Full-Time,Entertainment,42015,16806,7,25209
+RESP_186,23,Female,East,Middle Income (8L-15L INR),Student,Healthcare,97539,23675,10,73864
+RESP_187,25,Female,South,Middle Income (8L-15L INR),Self-Employed,Utilities,63585,7495,8,56090
+RESP_188,44,Male,West,Lower-Middle (3L-8L INR),Retired,Transportation,46958,15673,7,31285
+RESP_189,26,Non-binary,North,Middle Income (8L-15L INR),Employed Full-Time,Savings & Investments,46017,13130,5,32887
+RESP_190,54,Female,North,Upper-Middle (15L-30L INR),Self-Employed,Utilities,96707,24668,1,72039
+RESP_191,50,Male,West,Upper-Middle (15L-30L INR),Employed Full-Time,Housing,144677,17222,5,127455
+RESP_192,59,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,65350,25669,10,39681
+RESP_193,61,Male,East,Low Income (<3L INR),Employed Part-Time,Utilities,32201,12880,2,19321
+RESP_194,41,Male,North,High Income (>30L INR),Student,Utilities,49426,19770,5,29656
+RESP_195,32,Male,Central,Upper-Middle (15L-30L INR),Retired,Housing,37778,11435,5,26343
+RESP_196,49,Female,Central,Low Income (<3L INR),Self-Employed,Food & Groceries,65241,26096,2,39145
+RESP_197,49,Male,West,Upper-Middle (15L-30L INR),Employed Full-Time,Transportation,62229,24891,5,37338
+RESP_198,41,Male,South,Upper-Middle (15L-30L INR),Employed Full-Time,Savings & Investments,106652,18393,4,88259
+RESP_199,58,Female,North,Lower-Middle (3L-8L INR),Self-Employed,Entertainment,148267,12617,1,135650
+RESP_200,29,Male,South,Middle Income (8L-15L INR),Employed Full-Time,Food & Groceries,138402,11852,3,126550
+RESP_201,56,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,68364,27345,1,41019
+RESP_202,19,Male,West,Low Income (<3L INR),Employed Full-Time,Utilities,118833,8295,5,110538
+RESP_203,20,Male,West,Lower-Middle (3L-8L INR),Employed Full-Time,Housing,146503,37993,4,108510
+RESP_204,54,Female,Central,Upper-Middle (15L-30L INR),Employed Full-Time,Housing,149044,36084,7,112960
+RESP_205,34,Female,South,Low Income (<3L INR),Employed Full-Time,Transportation,104878,38451,5,66427
+RESP_206,19,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,77056,9227,10,67829
+RESP_207,19,Female,South,Lower-Middle (3L-8L INR),Employed Full-Time,Entertainment,47490,18996,4,28494
+RESP_208,45,Female,Central,Lower-Middle (3L-8L INR),Retired,Transportation,147769,38041,2,109728
+RESP_209,40,Male,East,Upper-Middle (15L-30L INR),Employed Full-Time,Utilities,39975,15990,4,23985
+RESP_210,54,Male,East,Lower-Middle (3L-8L INR),Employed Full-Time,Transportation,46723,2145,2,44578
+RESP_211,49,Female,East,Lower-Middle (3L-8L INR),Employed Part-Time,Savings & Investments,43279,17311,8,25968
+RESP_212,50,Female,East,Middle Income (8L-15L INR),Employed Full-Time,Housing,98301,18035,3,80266
+RESP_213,18,Prefer not to say,North,Lower-Middle (3L-8L INR),Student,Housing,132214,5040,9,127174
+RESP_214,36,Male,East,Lower-Middle (3L-8L INR),Self-Employed,Healthcare,31561,12624,4,18937
+RESP_215,19,Male,West,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,127435,19633,6,107802
+RESP_216,61,Female,West,Low Income (<3L INR),Employed Full-Time,Entertainment,86061,31344,10,54717
+RESP_217,43,Male,North,Low Income (<3L INR),Student,Utilities,108397,19014,5,89383
+RESP_218,49,Female,East,Lower-Middle (3L-8L INR),Student,Savings & Investments,69153,16996,10,52157
+RESP_219,23,Female,East,Lower-Middle (3L-8L INR),Employed Full-Time,Food & Groceries,53142,13695,1,39447
+RESP_220,49,Male,East,Upper-Middle (15L-30L INR),Employed Part-Time,Transportation,46916,4852,9,42064
+RESP_221,21,Female,Central,Lower-Middle (3L-8L INR),Employed Full-Time,Entertainment,84324,18014,1,66310
+RESP_222,28,Female,South,Middle Income (8L-15L INR),Retired,Utilities,64965,25986,8,38979
+RESP_223,34,Male,Central,Middle Income (8L-15L INR),Employed Full-Time,Healthcare,145932,35755,9,110177
+RESP_224,55,Female,South,Low Income (<3L INR),Student,Transportation,24648,9859,9,14789
+RESP_225,41,Female,East,Middle Income (8L-15L INR),Employed Part-Time,Healthcare,55133,22053,1,33080
+RESP_226,22,Female,East,Low Income (<3L INR),Employed Part-Time,Transportation,70677,11160,2,59517
+RESP_227,51,Male,Central,High Income (>30L INR),Employed Full-Time,Food & Groceries,116059,29213,1,86846
+RESP_228,23,Female,Central,Low Income (<3L INR),Employed Full-Time,Utilities,114588,9421,10,105167
+RESP_229,39,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Transportation,119950,23400,2,96550
+RESP_230,28,Male,West,Low Income (<3L INR),Employed Full-Time,Savings & Investments,118317,35537,10,82780
+RESP_231,33,Female,South,High Income (>30L INR),Employed Full-Time,Entertainment,90135,19727,8,70408
+RESP_232,50,Male,Central,Lower-Middle (3L-8L INR),Self-Employed,Housing,55046,6358,5,48688
+RESP_233,26,Male,Central,Middle Income (8L-15L INR),Employed Full-Time,Savings & Investments,67064,26825,7,40239
+RESP_234,23,Non-binary,North,Low Income (<3L INR),Employed Full-Time,Savings & Investments,121459,34117,2,87342
+RESP_235,33,Non-binary,Central,Middle Income (8L-15L INR),Retired,Entertainment,126625,25164,8,101461
+RESP_236,46,Female,North,Lower-Middle (3L-8L INR),Student,Housing,89350,33910,6,55440
+RESP_237,20,Female,West,Upper-Middle (15L-30L INR),Student,Savings & Investments,65893,26357,8,39536
+RESP_238,37,Male,South,Lower-Middle (3L-8L INR),Retired,Transportation,121520,31371,1,90149
+RESP_239,53,Male,South,Low Income (<3L INR),Employed Full-Time,Transportation,145818,19625,1,126193
+RESP_240,36,Male,North,Low Income (<3L INR),Employed Full-Time,Transportation,81272,32508,7,48764
+RESP_241,43,Female,South,Lower-Middle (3L-8L INR),Self-Employed,Housing,112152,12793,8,99359
+RESP_242,20,Female,Central,Middle Income (8L-15L INR),Employed Part-Time,Savings & Investments,142907,33007,3,109900
+RESP_243,36,Female,East,Low Income (<3L INR),Employed Full-Time,Housing,87649,27766,5,59883
+RESP_244,37,Female,North,Middle Income (8L-15L INR),Self-Employed,Transportation,84674,14323,1,70351
+RESP_245,49,Male,South,Lower-Middle (3L-8L INR),Employed Full-Time,Entertainment,144132,9843,7,134289
+RESP_246,24,Female,North,Lower-Middle (3L-8L INR),Employed Full-Time,Savings & Investments,139044,16210,5,122834
+RESP_247,58,Male,North,Lower-Middle (3L-8L INR),Employed Full-Time,Savings & Investments,128542,18456,8,110086
+RESP_248,50,Female,East,Lower-Middle (3L-8L INR),Employed Full-Time,Healthcare,33760,13504,8,20256
+RESP_249,57,Male,Central,Middle Income (8L-15L INR),Employed Full-Time,Healthcare,41927,12106,9,29821
+RESP_250,56,Female,North,Low Income (<3L INR),Employed Full-Time,Food & Groceries,106475,39957,7,66518

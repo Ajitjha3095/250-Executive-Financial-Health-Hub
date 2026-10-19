@@ -1,0 +1,72 @@
+{
+  "name": "Executive Financial Health Hub",
+  "dataColors": [
+    "#0F172A",
+    "#2563EB",
+    "#16A34A",
+    "#DC2626",
+    "#38BDF8",
+    "#F59E0B",
+    "#64748B",
+    "#8B5CF6"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E2E8F0" } },
+            "radius": 6
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E2E8F0" } },
+            "position": "Outer",
+            "preset": "BottomRight"
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 13,
+            "fontColor": { "solid": { "color": "#0F172A" } },
+            "bold": true
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 28,
+            "color": { "solid": { "color": "#0F172A" } },
+            "bold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": { "solid": { "color": "#64748B" } }
+          }
+        ]
+      }
+    }
+  }
+}
